@@ -27,3 +27,5 @@ Saya menggunakan konsep dasar input-output, operator aritmatika untuk menghitung
 - variable dan tipe data
 - operasi aritmatika
 
+link vidio demo 
+https://youtu.be/CFMUAFnSaCA
